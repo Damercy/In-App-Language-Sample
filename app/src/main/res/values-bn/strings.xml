@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">InAppLanguagePreferences</string>
+    <string name="intro_text">ওহে! আপনি কেমন আছেন?</string>
+    <string name="locale_btn">লোকেল পান</string>
+    <string name="set_locale">লোকেল সেট করুন</string>
+</resources>

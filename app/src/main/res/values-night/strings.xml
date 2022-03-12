@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_text">Hi! How are you?</string>
+    <string name="locale_btn">Get Locale</string>
+    <string name="set_locale">Set locale</string>
+</resources>

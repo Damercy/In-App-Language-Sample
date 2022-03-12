@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">InAppLanguagePreferences</string>
+    <string name="intro_text">Hi! How are you?</string>
+    <string name="locale_btn">Get Locale</string>
+    <string name="set_locale">Set locale</string>
+</resources>
